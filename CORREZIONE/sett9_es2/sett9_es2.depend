@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1543743474 source:c:\users\mario\onedrive\documenti\es_sett\sett9_es2\list.c
+	"mylib.h"
+	<stdlib.h>
+	<string.h>
+
+1543782686 c:\users\mario\onedrive\documenti\es_sett\sett9_es2\mylib.h
+
+1543782074 source:c:\users\mario\onedrive\documenti\es_sett\sett9_es2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"mylib.h"
+
+1543743476 source:e:\programmazione\esercizi\correzione\sett9_es2\list.c
+	"mylib.h"
+	<stdlib.h>
+	<string.h>
+
+1543782688 e:\programmazione\esercizi\correzione\sett9_es2\mylib.h
+
+1543784212 source:e:\programmazione\esercizi\correzione\sett9_es2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"mylib.h"
+

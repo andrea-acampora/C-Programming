@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1543942833 source:e:\programmazione\esercizi\sett09_es01\sett9_es01\arraydinfunctions.c
+	"ArrayDinLibrary.h"
+
+1543942861 e:\programmazione\esercizi\sett09_es01\sett9_es01\arraydinlibrary.h
+	<stdlib.h>
+	<stdio.h>
+
+1543942911 source:e:\programmazione\esercizi\sett09_es01\sett9_es01\arraystatfunctions.c
+	"ArrayStatLibrary.h"
+
+1544293794 e:\programmazione\esercizi\sett09_es01\sett9_es01\arraystatlibrary.h
+	<stdlib.h>
+	<stdio.h>
+
+1544293794 source:e:\programmazione\esercizi\sett09_es01\sett9_es01\structfunctions.c
+	"StructLibrary.h"
+
+1543942787 e:\programmazione\esercizi\sett09_es01\sett9_es01\structlibrary.h
+	<stdlib.h>
+	<stdio.h>
+
+1543944161 source:d:\programmazione\esercizi\sett09_es01\sett9_es01\main.c
+	"StructLibrary.h"
+	"ArrayDinLibrary.h"
+	"ArrayStatLibrary.h"
+	<stdlib.h>
+	<stdio.h>
+
+1543942787 d:\programmazione\esercizi\sett09_es01\sett9_es01\structlibrary.h
+	<stdlib.h>
+	<stdio.h>
+
+1543942861 d:\programmazione\esercizi\sett09_es01\sett9_es01\arraydinlibrary.h
+	<stdlib.h>
+	<stdio.h>
+
+1543942961 d:\programmazione\esercizi\sett09_es01\sett9_es01\arraystatlibrary.h
+	<stdlib.h>
+	<stdio.h>
+
+1543942833 source:d:\programmazione\esercizi\sett09_es01\sett9_es01\arraydinfunctions.c
+	"ArrayDinLibrary.h"
+
+1543942911 source:d:\programmazione\esercizi\sett09_es01\sett9_es01\arraystatfunctions.c
+	"ArrayStatLibrary.h"
+
+1543942741 source:d:\programmazione\esercizi\sett09_es01\sett9_es01\structfunctions.c
+	"StructLibrary.h"
+
+1544104225 source:e:\programmazione\esercizi\sett09_es01\sett9_es01\main.c
+	"StructLibrary.h"
+	"ArrayDinLibrary.h"
+	"ArrayStatLibrary.h"
+	<stdlib.h>
+	<stdio.h>
+
+1547405068 source:f:\programmazione\esercizi\sett09_es01\sett9_es01\arraydinfunctions.c
+	"ArrayDinLibrary.h"
+
+1547405068 f:\programmazione\esercizi\sett09_es01\sett9_es01\arraydinlibrary.h
+	<stdlib.h>
+	<stdio.h>
+
+1547404985 source:f:\programmazione\esercizi\sett09_es01\sett9_es01\arraystatfunctions.c
+	"ArrayStatLibrary.h"
+
+1544293794 f:\programmazione\esercizi\sett09_es01\sett9_es01\arraystatlibrary.h
+	<stdlib.h>
+	<stdio.h>
+
+1547405068 source:f:\programmazione\esercizi\sett09_es01\sett9_es01\main.c
+	"StructLibrary.h"
+	"ArrayDinLibrary.h"
+	"ArrayStatLibrary.h"
+	<stdlib.h>
+	<stdio.h>
+
+1543942787 f:\programmazione\esercizi\sett09_es01\sett9_es01\structlibrary.h
+	<stdlib.h>
+	<stdio.h>
+
+1546706074 source:f:\programmazione\esercizi\sett09_es01\sett9_es01\structfunctions.c
+	"StructLibrary.h"
+

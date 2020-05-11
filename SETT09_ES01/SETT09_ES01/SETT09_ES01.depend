@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1543509190 source:d:\programmazione\esercizi\sett09_es01\sett09_es01\functions.c
+	"Library_functions.h"
+	<stdio.h>
+	<stdlib.h>
+
+1543509069 source:d:\programmazione\esercizi\sett09_es01\sett09_es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Library_functions.h"
+
+1543509203 d:\programmazione\esercizi\sett09_es01\sett09_es01\library_functions.h
+
+1543772930 source:e:\programmazione\esercizi\sett09_es01\sett09_es01\functions.c
+	"Library_functions_Struct.h"
+	"Library_function_vettStat.h"
+	"Library_functions_vettDin.h"
+	<stdio.h>
+	<stdlib.h>
+
+1543577664 e:\programmazione\esercizi\sett09_es01\sett09_es01\library_functions.h
+
+1543772970 source:e:\programmazione\esercizi\sett09_es01\sett09_es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Library_functions_Struct.h"
+	"Library_function_vettStat.h"
+	"Library_functions_vettDin.h"
+
+1543223203 source:f:\programmazione\esercizi\sett09_es01\sett09_es01\functions.c
+	"Library_functions.h"
+	<stdio.h>
+	<stdlib.h>
+
+1542991165 f:\programmazione\esercizi\sett09_es01\sett09_es01\library_functions.h
+
+1543223202 source:f:\programmazione\esercizi\sett09_es01\sett09_es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Library_functions.h"
+
+1543578490 e:\programmazione\esercizi\sett09_es01\sett09_es01\library_functions_struct.h
+
+1543592117 e:\programmazione\esercizi\sett09_es01\sett09_es01\library_function_vettstat.h
+
+1543773012 e:\programmazione\esercizi\sett09_es01\sett09_es01\library_functions_vettdin.h
+

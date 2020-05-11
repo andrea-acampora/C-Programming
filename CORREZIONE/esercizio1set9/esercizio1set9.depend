@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1543747426 source:d:\scuola\uni\c\esercizis9\es1v2\esercizio1set9\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+
+1543747426 d:\scuola\uni\c\esercizis9\es1v2\esercizio1set9\dato.h
+
+1543747426 source:d:\scuola\uni\c\esercizis9\es1v2\esercizio1set9\libpuntatori.c
+	<stdio.h>
+	<stdlib.h>
+	"libpuntatori.h"
+	"dato.h"
+
+1543747426 d:\scuola\uni\c\esercizis9\es1v2\esercizio1set9\libpuntatori.h
+	"dato.h"
+
+1543747426 source:d:\scuola\uni\c\esercizis9\es1v2\esercizio1set9\libstatica.c
+	<stdio.h>
+	<stdlib.h>
+	"libstatica.h"
+	"dato.h"
+
+1543747426 d:\scuola\uni\c\esercizis9\es1v2\esercizio1set9\libstatica.h
+	"dato.h"
+
+1543747426 source:d:\scuola\uni\c\esercizis9\es1v2\esercizio1set9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"libstatica.h"
+	"libdinamica.h"
+	"libpuntatori.h"
+	"dato.h"
+
+1543747427 d:\scuola\uni\c\esercizis9\es1v2\esercizio1set9\libdinamica.h
+	"dato.h"
+
+1543747509 source:d:\scuola\uni\c\esercizis9\es1v2\esercizio1set9\libdinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"libdinamica.h"
+	"dato.h"
+
+1543747428 source:e:\programmazione\esercizi\correzione\esercizio1set9\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+
+1543747428 e:\programmazione\esercizi\correzione\esercizio1set9\dato.h
+
+1543747510 source:e:\programmazione\esercizi\correzione\esercizio1set9\libdinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"libdinamica.h"
+	"dato.h"
+
+1543747428 e:\programmazione\esercizi\correzione\esercizio1set9\libdinamica.h
+	"dato.h"
+
+1543747766 source:e:\programmazione\esercizi\correzione\esercizio1set9\libpuntatori.c
+	<stdio.h>
+	<stdlib.h>
+	"libpuntatori.h"
+	"dato.h"
+
+1543747428 e:\programmazione\esercizi\correzione\esercizio1set9\libpuntatori.h
+	"dato.h"
+
+1543747428 source:e:\programmazione\esercizi\correzione\esercizio1set9\libstatica.c
+	<stdio.h>
+	<stdlib.h>
+	"libstatica.h"
+	"dato.h"
+
+1543747428 e:\programmazione\esercizi\correzione\esercizio1set9\libstatica.h
+	"dato.h"
+
+1543747428 source:e:\programmazione\esercizi\correzione\esercizio1set9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"libstatica.h"
+	"libdinamica.h"
+	"libpuntatori.h"
+	"dato.h"
+

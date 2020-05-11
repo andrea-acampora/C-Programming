@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1544111515 source:d:\programmazione\esercizi\sett10_es01\es01sett10\functions.c
+	"Library.h"
+	<stdlib.h>
+	<stdio.h>
+
+1544111995 d:\programmazione\esercizi\sett10_es01\es01sett10\library.h
+
+1544611750 source:e:\programmazione\esercizi\sett10_es01\es01sett10\functions.c
+	"Library.h"
+	"Library2.h"
+	"Library3.h"
+	<stdlib.h>
+	<stdio.h>
+
+1544611635 e:\programmazione\esercizi\sett10_es01\es01sett10\library.h
+
+1544611750 source:e:\programmazione\esercizi\sett10_es01\es01sett10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Library.h"
+	"Library2.h"
+	"Library3.h"
+
+1544536512 e:\programmazione\esercizi\sett10_es01\es01sett10\library2.h
+
+1544540807 e:\programmazione\esercizi\sett10_es01\es01sett10\library3.h
+	<stdio.h>
+	<stdlib.h>
+
+1544532031 source:f:\programmazione\esercizi\sett10_es01\es01sett10\functions.c
+	"Library.h"
+	"Library2.h"
+	"Library3.h"
+	<stdlib.h>
+	<stdio.h>
+
+1544291650 f:\programmazione\esercizi\sett10_es01\es01sett10\library.h
+
+1544536512 f:\programmazione\esercizi\sett10_es01\es01sett10\library2.h
+
+1544540807 f:\programmazione\esercizi\sett10_es01\es01sett10\library3.h
+	<stdio.h>
+	<stdlib.h>
+
+1544541416 source:f:\programmazione\esercizi\sett10_es01\es01sett10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Library.h"
+	"Library2.h"
+	"Library3.h"
+
+1544537793 source:f:\programmazione\esercizi\sett10_es01\es01sett10\functions2.c
+	"Library.h"
+	"Library2.h"
+	"Library3.h"
+	<stdlib.h>
+	<stdio.h>
+
+1544541202 source:f:\programmazione\esercizi\sett10_es01\es01sett10\functions3.c
+	"Library.h"
+	"Library2.h"
+	"Library3.h"
+	<stdlib.h>
+	<stdio.h>
+
+1544537793 source:e:\programmazione\esercizi\sett10_es01\es01sett10\functions2.c
+	"Library.h"
+	"Library2.h"
+	"Library3.h"
+	<stdlib.h>
+	<stdio.h>
+
+1544611782 source:e:\programmazione\esercizi\sett10_es01\es01sett10\functions3.c
+	"Library.h"
+	"Library2.h"
+	"Library3.h"
+	<stdlib.h>
+	<stdio.h>
+

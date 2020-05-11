@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1543785615 source:c:\users\magia\documents\università\programmazione a-l\esercizi\s9\es1\s9-es1\s9-es1.c
+	"liste_statiche.h"
+	"liste_dinamiche.h"
+	"liste_collegate.h"
+	<stdlib.h>
+	<stdio.h>
+
+1543753529 c:\users\magia\documents\università\programmazione a-l\esercizi\s9\es1\s9-es1\liste_statiche.h
+	<stdlib.h>
+	<stdio.h>
+
+1543753430 source:c:\users\magia\documents\università\programmazione a-l\esercizi\s9\es1\s9-es1\liste_statiche.c
+	"liste_statiche.h"
+
+1543680361 source:c:\users\magia\documents\università\programmazione a-l\esercizi\s9\es1\s9-es1\liste_dinamiche.c
+	"liste_dinamiche.h"
+
+1543753430 c:\users\magia\documents\università\programmazione a-l\esercizi\s9\es1\s9-es1\liste_dinamiche.h
+	<stdlib.h>
+	<stdio.h>
+
+1543785826 source:c:\users\magia\documents\università\programmazione a-l\esercizi\s9\es1\s9-es1\liste_collegate.c
+	"liste_collegate.h"
+
+1543782476 c:\users\magia\documents\università\programmazione a-l\esercizi\s9\es1\s9-es1\liste_collegate.h
+	<stdlib.h>
+	<stdio.h>
+
+1543680361 source:c:\users\magia\desktop\s9-es1\liste_dinamiche.c
+	"liste_dinamiche.h"
+
+1543753430 c:\users\magia\desktop\s9-es1\liste_dinamiche.h
+	<stdlib.h>
+	<stdio.h>
+
+1543753430 source:c:\users\magia\desktop\s9-es1\liste_statiche.c
+	"liste_statiche.h"
+
+1543753529 c:\users\magia\desktop\s9-es1\liste_statiche.h
+	<stdlib.h>
+	<stdio.h>
+
+1543787197 source:c:\users\magia\desktop\s9-es1\liste_collegate.c
+	"liste_collegate.h"
+
+1543782476 c:\users\magia\desktop\s9-es1\liste_collegate.h
+	<stdlib.h>
+	<stdio.h>
+
+1543787278 source:c:\users\magia\desktop\s9-es1\s9-es1.c
+	"liste_statiche.h"
+	"liste_dinamiche.h"
+	"liste_collegate.h"
+	<stdlib.h>
+	<stdio.h>
+
+1543787198 source:e:\programmazione\esercizi\correzione\s9-es1\liste_collegate.c
+	"liste_collegate.h"
+
+1543782478 e:\programmazione\esercizi\correzione\s9-es1\liste_collegate.h
+	<stdlib.h>
+	<stdio.h>
+
+1543680362 source:e:\programmazione\esercizi\correzione\s9-es1\liste_dinamiche.c
+	"liste_dinamiche.h"
+
+1543753432 e:\programmazione\esercizi\correzione\s9-es1\liste_dinamiche.h
+	<stdlib.h>
+	<stdio.h>
+
+1543753432 source:e:\programmazione\esercizi\correzione\s9-es1\liste_statiche.c
+	"liste_statiche.h"
+
+1543753530 e:\programmazione\esercizi\correzione\s9-es1\liste_statiche.h
+	<stdlib.h>
+	<stdio.h>
+
+1543787280 source:e:\programmazione\esercizi\correzione\s9-es1\s9-es1.c
+	"liste_statiche.h"
+	"liste_dinamiche.h"
+	"liste_collegate.h"
+	<stdlib.h>
+	<stdio.h>
+

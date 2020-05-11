@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1544371660 source:c:\users\bala\onedrive - alma mater studiorum università di bologna\unibo\programmazione\pratica\sett9es2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"libreria.h"
+	"libreria.c"
+
+1544371514 c:\users\bala\onedrive - alma mater studiorum università di bologna\unibo\programmazione\pratica\sett9es2\libreria.h
+
+1544371538 c:\users\bala\onedrive - alma mater studiorum università di bologna\unibo\programmazione\pratica\sett9es2\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"libreria.h"
+
+1543768384 source:e:\programmazione\esercizi\correzione\sett9es2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1543770058 e:\programmazione\esercizi\correzione\sett9es2\lista.h
+

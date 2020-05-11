@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1543614675 source:c:\users\eleonora\desktop\9settimana2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_strutture_concatenate.h"
+
+1543743065 source:c:\users\eleonora\desktop\9settimana2\lista_strutture_concatenate.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"lista_strutture_concatenate.h"
+
+1543614684 c:\users\eleonora\desktop\9settimana2\lista_strutture_concatenate.h
+	<stdio.h>
+
+1543745027 source:c:\users\eleonora\desktop\esercizi\9settimana2 consegnato\lista_strutture_concatenate.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	"lista_strutture_concatenate.h"
+
+1543614684 c:\users\eleonora\desktop\esercizi\9settimana2 consegnato\lista_strutture_concatenate.h
+	<stdio.h>
+
+1543745025 source:c:\users\eleonora\desktop\esercizi\9settimana2 consegnato\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_strutture_concatenate.h"
+
+1543745025 source:e:\programmazione\esercizi\correzione\9settimana2 consegnato\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_strutture_concatenate.h"
+
+1543614684 e:\programmazione\esercizi\correzione\9settimana2 consegnato\lista_strutture_concatenate.h
+	<stdio.h>
+
+1543754723 source:d:\programmazione\esercizi\correzione\9settimana2 consegnato\lista_strutture_concatenate.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	"lista_strutture_concatenate.h"
+
+1543614684 d:\programmazione\esercizi\correzione\9settimana2 consegnato\lista_strutture_concatenate.h
+	<stdio.h>
+
+1543745025 source:d:\programmazione\esercizi\correzione\9settimana2 consegnato\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_strutture_concatenate.h"
+
